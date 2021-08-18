@@ -20,3 +20,7 @@ Usage of cdnPushCache:
         The url file to purge. Please use filename or location of file
   -h    CdnPushCache Help manual.
 ```
+一个比较标准的命令示例为：
+```shell
+#~: /usr/local/bin/cdnPushCache -u /tmp/urlList.txt -p aliyun -o
+```
